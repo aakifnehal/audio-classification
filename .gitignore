@@ -147,23 +147,6 @@ wandb/
 mlruns/
 .neptune/
 
-# Data files
-*.csv
-*.tsv
-*.json
-*.parquet
-*.feather
-*.xlsx
-*.xls
-data/
-datasets/
-*.wav
-*.mp3
-*.flac
-*.m4a
-*.ogg
-*.aiff
-*.wma
 
 # Model files
 *.pt
@@ -175,23 +158,7 @@ datasets/
 models/
 weights/
 
-# Video files
-*.mp4
-*.avi
-*.mov
-*.mkv
-*.webm
-*.flv
-*.wmv
 
-# Image files (optional, uncomment if you don't want to track images)
-# *.jpg
-# *.jpeg
-# *.png
-# *.gif
-# *.bmp
-# *.tiff
-# *.svg
 
 # macOS
 .DS_Store
